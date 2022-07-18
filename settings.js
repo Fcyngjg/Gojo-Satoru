@@ -19,9 +19,9 @@ global.APIKeys = {
 }
 
 //customize settings\\
-global.owner = ['96551093864']
-global.premium = ['96551093864']
-global.ownernomer = '96569657591'
+global.owner = ['+96551093864']
+global.premium = ['+96551093864']
+global.ownernomer = '+96569657591'
 global.ownername = 'مهجد ايزن'
 global.botname = 'TWIX'
 global.footer = '©NexusNwInc.'
